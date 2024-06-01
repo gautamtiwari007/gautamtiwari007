@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gautam Tiwari
 - 👀 I’m interested in machines, web and the technology.
-- 🌱 I’m currently pursuing my B.Tech in ECE at NIT Silchar.
-- 💞️ I’m looking to collaborate on web development, android development, machine development just anything related to technology.
+- 🌱 I’m currently working as a software engineer @Amagi Corporation.
+- 💞️ I’m looking to collaborate on web development, android development, machine learning development just anything related to technology.
 - 📫 You can reach me via my gmail gautamtiwari142@gmail.com
 
 <!---
